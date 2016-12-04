@@ -1,0 +1,691 @@
+/* line 7, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.firstsection {
+  position: fixed;
+  font-family: futura-pt, sans-serif;
+  background: url("spaceshipbackground.png");
+  width: 100%;
+  min-height: 800px;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 8, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.firstsection h1 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin: 100px 0 0 0;
+  color: #fff;
+  font-size: 48px;
+}
+
+/* line 9, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.firstsection h2 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin: 10px 0 0 0;
+  color: #fff799;
+  font-size: 20px;
+}
+
+/* line 10, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box1 {
+  width: 50%;
+  float: left;
+  margin: 75px 0 0 0;
+  padding: 0 5% 0 10%;
+}
+
+/* line 11, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box1 h1 {
+  font-size: 56px;
+  line-height: 60px;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  margin: 40px 0 0 0;
+  padding: 0;
+}
+
+/* line 12, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box1 h3 {
+  font-size: 16px;
+  color: #fff;
+  font-style: italic;
+  text-align: center;
+  margin: 10px 0;
+  padding: 0;
+}
+
+/* line 13, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box1 h3 a {
+  color: #fff;
+}
+
+/* line 14, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box1 h3 a:hover {
+  color: #f0c514;
+  text-decoration: none;
+}
+
+/* line 16, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tempbox {
+  width: 100%;
+  float: left;
+  margin: 25px 0 0 0;
+  padding: 0;
+}
+
+/* line 17, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tempbox h1 {
+  font-size: 56px;
+  line-height: 60px;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  margin: 40px 0 0 0;
+  padding: 0;
+}
+
+/* line 18, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tempbox h3 {
+  font-size: 16px;
+  color: #86d9f8;
+  font-style: italic;
+  text-align: center;
+  margin: 50px 0 15px 0;
+  padding: 0;
+  font-weight: 300;
+}
+
+/* line 19, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tempbox h3 a {
+  color: #fff;
+}
+
+/* line 20, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tempbox h3 a:hover {
+  color: #f0c514;
+  text-decoration: none;
+}
+
+/* line 22, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox {
+  float: left;
+  width: 80%;
+  margin: 25px 10% 15px 10%;
+  padding: 5px;
+  background-color: #20a286;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: lighter;
+}
+
+/* line 23, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox4 {
+  float: left;
+  width: 50%;
+  margin: 25px 25% 15px 25%;
+  padding: 15px 5px;
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: lighter;
+}
+
+/* line 24, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.videobox {
+  float: left;
+  width: 50%;
+  margin: 75px 0 0 0;
+  padding: 0 10% 0 5%;
+}
+
+/* line 25, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox:hover {
+  background-color: #fff799;
+  color: #000;
+}
+
+/* line 26, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox4:hover {
+  background-color: #fff799;
+  color: #000;
+}
+
+/* line 28, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.secondsection {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 20px 0;
+  background-color: #fff;
+}
+
+/* line 29, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.secondsection ul {
+  float: left;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 25px 5%;
+}
+
+/* line 30, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.secondsection ul li {
+  float: left;
+  width: 23%;
+  margin: 0 1%;
+  height: auto;
+}
+
+/* line 32, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.picbox {
+  float: left;
+  width: 50%;
+  margin: 75px 0 0 0;
+  padding: 0 5% 0 10%;
+}
+
+/* line 33, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.picbox img {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 34, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box2 {
+  width: 50%;
+  float: left;
+  margin: 75px 0 0 0;
+  text-align: center;
+  padding: 15px 10% 0 5%;
+  color: #20a286;
+  font-size: 30px;
+  line-height: 32px;
+}
+
+/* line 35, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox2 {
+  float: left;
+  width: 80%;
+  margin: 25px 10% 15px 10%;
+  padding: 10px 5px;
+  background-color: #20a286;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* line 36, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box2 h3 {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin: 10px 0;
+  padding: 0;
+  color: #20a286;
+}
+
+/* line 37, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box2 h3 a {
+  color: #20a286;
+}
+
+/* line 38, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box2 h3 a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+/* line 39, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox2:hover {
+  background-color: #fff799;
+  color: #000;
+}
+
+/* line 41, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.thirdsection {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 50px 5% 15px 5%;
+  background-color: #e1e1e1;
+}
+
+/* line 42, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.thirdsection h1 {
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-size: 48px;
+  color: #000;
+}
+
+/* line 43, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.thirdsection h2 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin: 10px 0 0 0;
+  color: #000;
+  font-size: 20px;
+}
+
+/* line 44, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.processbox {
+  float: left;
+  width: 31%;
+  margin: 50px 1%;
+  padding: 0;
+}
+
+/* line 45, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.processbox img {
+  float: left;
+  width: 90%;
+  margin: 0 5%;
+}
+
+/* line 46, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.processbox h1 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  color: #000;
+}
+
+/* line 47, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.processbox ul {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 48, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.processbox ul li {
+  float: left;
+  width: 100%;
+  margin: 5px 0;
+  padding: 0;
+}
+
+/* line 50, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.fourthsection {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 50px 5%;
+  background-color: #fff799;
+}
+
+/* line 51, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.fourthsection h1 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 48px;
+  margin: 25px 0;
+  padding: 0;
+}
+
+/* line 52, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.featurebox {
+  float: left;
+  text-align: center;
+  width: 33.33%;
+  height: auto;
+  padding: 25px 5px;
+  color: #000;
+}
+
+/* line 53, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.featurebox i {
+  color: #e35d4f;
+  font-size: 60px;
+  text-align: center;
+}
+
+/* line 54, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.featurebox h2 {
+  float: left;
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}
+
+/* line 55, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.featurebox p {
+  float: left;
+  color: #000;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  width: 100%;
+}
+
+/* line 57, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.fifthsection {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 0;
+  background-color: #20a286;
+}
+
+/* line 58, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.fifthsection .headertitle {
+  float: left;
+  text-align: center;
+  font-size: 56px;
+  color: #000;
+  padding: 10px 5px 25px 5px;
+  width: 100%;
+}
+
+/* line 59, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.planbox {
+  float: left;
+  width: 50%;
+  padding: 25px 5%;
+}
+
+/* line 60, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.planbox h1 {
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-size: 24px;
+  color: #000;
+  margin: 15px 0;
+}
+
+/* line 61, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box3 {
+  width: 100%;
+  float: left;
+  margin: 0 0 0 0;
+  text-align: center;
+  padding: 0;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+/* line 62, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.box4 {
+  width: 50%;
+  float: left;
+  margin: 25px 0 0 0;
+  text-align: center;
+  padding: 15px 10% 0 5%;
+  color: #fff;
+}
+
+/* line 63, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.boldline {
+  float: left;
+  width: 80%;
+  margin: 25px 10%;
+  color: #fff;
+  height: 25px;
+}
+
+/* line 65, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.sixthsection {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 100px 5%;
+  background-color: #fff;
+}
+
+/* line 66, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.sixthsection h1 {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin: 25px 0;
+  color: #000;
+  font-size: 36px;
+}
+
+/* line 67, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tablebox {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 68, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tablecolumn {
+  float: left;
+  width: 24%;
+  margin: 0 .5%;
+  padding: 20px 2%;
+  border: 2px solid #d3d3d3;
+  text-align: center;
+}
+
+/* line 69, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tablecolumn h1 {
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-size: 24px;
+  color: #000;
+}
+
+/* line 70, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.plancontent {
+  float: left;
+  font-size: 14px;
+  line-height: 16px;
+  color: #a3a3a3;
+  padding: 10px 0;
+}
+
+/* line 71, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.pricing {
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  line-height: 16px;
+  color: #d3d3d3;
+  margin: 15px 0;
+}
+
+/* line 72, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.bigfont {
+  font-size: 36px;
+  line-height: 36px;
+  color: #000;
+  font-weight: 700;
+}
+
+/* line 73, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.menulist {
+  float: left;
+  padding: 25px 0;
+  width: 100%;
+}
+
+/* line 74, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.menulist ul {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* line 75, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.menulist ul li {
+  float: left;
+  width: 100%;
+  margin: 3px 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+/* line 76, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox3 {
+  float: left;
+  width: 70%;
+  margin: 25px 15% 15px 15%;
+  padding: 5px;
+  background-color: #fff;
+  color: #20a286;
+  text-align: center;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: lighter;
+}
+
+/* line 77, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.actionbox3:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+/* line 78, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.tablecolumn:hover {
+  box-shadow: 2px 2px 2px #d3d3d3;
+}
+
+/* line 80, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.topnavheader {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 20px;
+  color: #fff;
+}
+
+/* line 81, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlist {
+  float: right;
+}
+
+/* line 82, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlist ul {
+  list-style-type: none;
+  width: auto;
+  margin: 25px 25px 0 0;
+  padding: 0;
+}
+
+/* line 83, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlist ul li {
+  float: left;
+  padding: 0 15px;
+}
+
+/* line 84, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlist ul li a {
+  color: #fff;
+  font-weight: 700;
+}
+
+/* line 85, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlist ul li a:hover {
+  color: #f0c514;
+  text-decoration: none;
+}
+
+/* line 86, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.navlistmobile {
+  float: right;
+  display: none;
+}
+
+/* line 88, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.whitespace {
+  color: #fff;
+}
+
+/* line 90, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.contactbox {
+  float: left;
+  font-family: futura-pt, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 50px 5%;
+  background-color: #fff;
+}
+
+/* line 91, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.contactbox h1 {
+  float: left;
+  width: 100%;
+  text-align: left;
+  margin: 25px 0;
+  color: #000;
+  font-size: 36px;
+}
+
+/* line 92, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.contactbox ul {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* line 93, c:/Users/cc/desktop/itsaspaceship/app/assets/stylesheets/pages.scss */
+.contactbox ul li {
+  float: left;
+  width: 100%;
+  margin: 3px 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 18px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
+
+body {margin: 0; padding: 0;}
+.logo-head2 {float: left; width: 100px; margin: 0 0 0 15px;}
+.topbar {position: absolute; z-index: 50; height: auto; width: 100%; margin: 0; padding: 15px 0; color: #fff; background-color: none;}
